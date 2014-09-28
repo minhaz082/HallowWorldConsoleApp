@@ -1,0 +1,5 @@
+C:\Users\miraz\Desktop\C#Practice Office\HallowWorldConsoleApp\HallowWorldConsoleApp\bin\Debug\HallowWorldConsoleApp.exe
+C:\Users\miraz\Desktop\C#Practice Office\HallowWorldConsoleApp\HallowWorldConsoleApp\bin\Debug\HallowWorldConsoleApp.pdb
+C:\Users\miraz\Desktop\C#Practice Office\HallowWorldConsoleApp\HallowWorldConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miraz\Desktop\C#Practice Office\HallowWorldConsoleApp\HallowWorldConsoleApp\obj\x86\Debug\HallowWorldConsoleApp.exe
+C:\Users\miraz\Desktop\C#Practice Office\HallowWorldConsoleApp\HallowWorldConsoleApp\obj\x86\Debug\HallowWorldConsoleApp.pdb
